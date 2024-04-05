@@ -1,0 +1,32 @@
+{
+  "name": "styled-prefixer",
+  "version": "1.0.0",
+  "description": "A utility for applying vendor prefixes to CSS styles in JavaScript and converting them into a string format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garizs/styled-prefixer.git"
+  },
+  "keywords": [
+    "css",
+    "autoprefixer",
+    "styles",
+    "vendor",
+    "prefixes",
+    "styled",
+    "inline-style"
+  ],
+  "author": "garizs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garizs/styled-prefixer/issues"
+  },
+  "homepage": "https://github.com/garizs/styled-prefixer#readme",
+  "dependencies": {
+    "autoprefixer-css-js": "^1.0.0",
+    "postcss": "^8.4.5"
+  }
+}
